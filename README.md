@@ -1,21 +1,28 @@
-# LOTRO PT-BR — instalador Windows
+# Tradução LOTRO PT-BR — The Lord of the Rings Online em português brasileiro
 
-Distribuição por **Zeca(TicNervoso)**.
+**Instalador Windows para a tradução comunitária do LOTRO (O Senhor dos Anéis Online)**, compatível com instalações Steam e launcher oficial. Distribuição e revisões locais por **Zeca(TicNervoso)**. O projeto é independente e **não é oficial** da Standing Stone Games.
 
-[Baixar instalador 0.2.5-preview (ZIP)](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.5-preview/LOTRO-PTBR-Windows-0.2.5-preview.zip) · [Checksum SHA-256](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.5-preview/LOTRO-PTBR-Windows-0.2.5-preview.zip.sha256)
+## Baixar a tradução para LOTRO
 
-Quem já tem o executável 0.2.4-preview pode usar o botão **Verificar atualizações** para baixar somente o [pacote de tradução 0.2.5-preview](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.5-preview/traducao-ptbr.zip). O executável **não se atualiza sozinho**.
+- [Baixar LOTRO PT-BR 0.2.6-preview — instalador Windows (ZIP)](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.6-preview/LOTRO-PTBR-Windows-0.2.6-preview.zip) · [SHA-256 do instalador](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.6-preview/LOTRO-PTBR-Windows-0.2.6-preview.zip.sha256)
+- [Baixar somente o pacote de tradução 0.2.6-preview](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.6-preview/traducao-ptbr.zip) · [SHA-256 do pacote](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.6-preview/traducao-ptbr.zip.sha256)
+- [Versões anteriores e notas de atualização](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases).
 
-1. Baixe e **extraia todo** o ZIP no Windows.
-2. Feche o LOTRO e seu launcher.
-3. Abra `LOTRO-PTBR/LOTRO-PTBR.exe` e confira a pasta do jogo.
-4. Clique em **Verificar instalação** e depois em **Instalar tradução**.
-5. Inicie o jogo mantendo **English** como idioma no launcher.
+O ZIP inclui o executável **0.2.4** com o conteúdo **0.2.6-preview**. Quem já usa o executável 0.2.4 pode clicar em **Verificar atualizações** para baixar apenas o novo pacote; o EXE não se substitui automaticamente.
 
-A tradução inclui revisões até o lote 15, Lobos Negros, áreas iniciais, recuperação de 28/10 e 79 textos novos de Instintos de Sobrevivência e habilidades relacionadas. O aplicativo faz backup do DAT antes de substituir o arquivo e oferece restauração para a mesma versão do jogo. **Não é tradução completa nem confirmação de toda a aba Habilidades comuns.** Consulte [as notas da release](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/tag/v0.2.5-preview) para limites e testes.
+## Como instalar no Windows
 
-SHA-256 do ZIP: `c356382fb37c5b1ded4e36a20fec7a421d269ee456a52ae4f65c4295c06f88bf`. Pacote de tradução: `ebe8d7feefa11d07c8f8b70809d5ea5c99cc45406d33c7f885c799044e006a08`.
+1. Extraia **todo** o ZIP; não abra o EXE de dentro dele. Feche LOTRO e launcher.
+2. Execute `LOTRO-PTBR/LOTRO-PTBR.exe`, selecione a pasta do jogo e clique em **Verificar instalação**.
+3. Confira a quantidade de textos compatíveis e clique em **Instalar tradução**. O aplicativo cria um backup do DAT antes de trocar o arquivo.
+4. Inicie LOTRO mantendo **English** no launcher. Para desfazer, use a função de restauração do instalador, sem misturar backups de builds diferentes.
 
-Preview sem assinatura digital; não desative proteções do Windows. Teste visual desta versão no jogo ainda pendente. Nenhum DAT do jogo é distribuído neste repositório.
+Este preview inclui 79 textos de Instintos de Sobrevivência e **153 revisões de Draugardh e Cardolan** além das versões anteriores. No DAT local testado, foram aplicados 232 textos: os 79 que ainda faltavam naquele jogo e as 153 revisões novas. **Não é uma tradução completa de todo o LOTRO**; conteúdo e telas precisam de revisão visual. O instalador não é assinado e pode ser bloqueado pelo Windows 11: **não desative as proteções do sistema**. Não há homologação desta versão em Windows nativo.
 
-Este espaço reúne apenas informações de download. O código-fonte do aplicativo é mantido em repositório privado.
+## Créditos e limites
+
+A **tradução-base PT-BR v0.34.0-rc** é do [projeto de André Lobo](https://github.com/andre-lobo/asl-game-translator-versoes). Ela permanece presente neste pacote; as correções e o instalador de Zeca(TicNervoso) **não tornam a tradução integralmente autoral**. As condições de redistribuição da base ainda exigem esclarecimento. Nenhum DAT do jogo é distribuído aqui. O código-fonte do instalador é mantido em repositório privado.
+
+**Integridade da 0.2.6-preview:** ZIP Windows SHA-256 `dfafb280d26bac11f9aeaa94ebf8f95f089bf77c6887836186a7c306beb45d24`; pacote de conteúdo SHA-256 `dab3121158213eed1f254a9c111584743b8d901e59a09eb7e709fb7fc0b84f91`.
+
+Para relatar texto em inglês, traduções inconsistentes ou problemas de instalação, informe missão/área, frase exibida, versão do jogo e captura quando possível. Página de downloads e documentação: **este repositório público**; não confundir com uma tradução oficial de The Lord of the Rings Online.
