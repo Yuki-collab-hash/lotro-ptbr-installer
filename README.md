@@ -21,7 +21,7 @@ Este preview inclui 79 textos de Instintos de Sobrevivência e **153 revisões d
 
 ## Créditos e limites
 
-A **tradução-base PT-BR v0.34.0-rc** é do [projeto de André Lobo](https://github.com/andre-lobo/asl-game-translator-versoes). Ela permanece presente neste pacote; as correções e o instalador de Zeca(TicNervoso) **não tornam a tradução integralmente autoral**. As condições de redistribuição da base ainda exigem esclarecimento. Nenhum DAT do jogo é distribuído aqui. O código-fonte do instalador é mantido em repositório privado.
+A **tradução-base PT-BR v0.34.0-rc** é do [projeto de André Lobo](https://github.com/andre-lobo/asl-game-translator-versoes). Segundo Zeca(TicNervoso), André autorizou o uso da tradução-base sem exigir crédito; a origem é identificada aqui por transparência. Ela permanece presente neste pacote: as correções e o instalador de Zeca **não tornam a tradução integralmente autoral**. Nenhum DAT do jogo é distribuído aqui. O código-fonte do instalador é mantido em repositório privado.
 
 **Integridade da 0.2.6-preview:** ZIP Windows SHA-256 `dfafb280d26bac11f9aeaa94ebf8f95f089bf77c6887836186a7c306beb45d24`; pacote de conteúdo SHA-256 `dab3121158213eed1f254a9c111584743b8d901e59a09eb7e709fb7fc0b84f91`.
 
