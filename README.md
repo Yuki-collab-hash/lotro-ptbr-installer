@@ -2,6 +2,8 @@
 
 **Instalador Windows para a tradução comunitária do LOTRO (O Senhor dos Anéis Online)**, compatível com instalações Steam e launcher oficial. Distribuição e revisões locais por **Zeca(TicNervoso)**. O projeto é independente e **não é oficial** da Standing Stone Games.
 
+[Página da tradução LOTRO PT-BR — instalação e download](https://yuki-collab-hash.github.io/lotro-ptbr-installer/)
+
 ## Baixar a tradução para LOTRO
 
 - [Baixar LOTRO PT-BR 0.2.6-preview — instalador Windows (ZIP)](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.6-preview/LOTRO-PTBR-Windows-0.2.6-preview.zip) · [SHA-256 do instalador](https://github.com/Yuki-collab-hash/lotro-ptbr-installer/releases/download/v0.2.6-preview/LOTRO-PTBR-Windows-0.2.6-preview.zip.sha256)
